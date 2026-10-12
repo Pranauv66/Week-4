@@ -1,0 +1,33 @@
+Create a modern and simple education website called “EduLearn – Learn. Grow. Succeed.” The website should have these pages: Home, Courses, Course Details, Learning Dashboard, About Us, Instructors, Contact, and Login/Sign Up. Keep the design clean, simple, professional, and easy to use. Use a white background with blue and purple colors, simple fonts, clear buttons, attractive course images, and a responsive design that works well on both mobile and desktop.
+
+
+ICEPOT
+
+INSTRUCTIONS
+1. Help me to design the main page
+   based on the requirement help me to build a Home, Course, Course Details, Learning Dashboard, About Us, Instructors, Contact, and Login/Sign Up.
+[STRICT] DO NOT HALLUCINATE
+[MANDATORY] KEEP A RELEVANT BACKGROUND IMAGE AND NAVIGATION SHOULD BE SMOOTH
+
+2. Context
+   Detail about the company(EduLearn) - 
+   you are going to design architecture to above webpage requirement.
+   course details like python,java,LLM
+
+3. persona
+   you act as a AI Architect to design the architecture of the webpage
+   with 10+ years of Experience in role
+   
+4. Output
+    Webpage should be in Attractive design, proper alignment, Connect all the pages properly, Font should be visible, 
+
+5. Tone
+    Professional
+
+Help me to design a architecture for the above requirement 
+[STRICT] ask me 20 relevant Questions to design my page
+[MANDATORY] each questions should have four options
+Among those four answers i will choose any one ( 1 question at a time) once i answer then proceed to next question.
+incase i don't know the answer i will ask you to explain or ask you to choose. after i choose the answer you can proceed to next question.
+if i do not understand the question ,i will skip the question.
+
